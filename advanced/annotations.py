@@ -1,5 +1,5 @@
 # demonstrates annotation (type declaration in python)
-import typing
+import typing # import the typing module to annotate sequence data types
 
 name: str = "Deepak"
 age: int = 19
