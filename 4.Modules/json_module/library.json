@@ -1,0 +1,39 @@
+{
+  "library_name": "Sunset City Library",
+  "location": "Sunset City, CA",
+  "books": [
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "published_year": 1925,
+      "available": true
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "published_year": 2011,
+      "available": false
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "published_year": 1951,
+      "available": true
+    },
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "published_year": 2008,
+      "available": true
+    }
+  ],
+  "librarian": {
+    "name": "Emily Waters",
+    "employee_id": "LIB202",
+    "email": "emily.waters@sunsetlibrary.org"
+  }
+}
